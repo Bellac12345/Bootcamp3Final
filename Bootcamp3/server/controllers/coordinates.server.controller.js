@@ -17,7 +17,7 @@ module.exports = function(req, res, next) {
       q: addressTemp4,
       key: config.openCage.key,
     }
-
+// console.log
     //Setup your request using URL and options - see ? for format
     request({
       url: 'https://api.opencagedata.com/geocode/v1/json',

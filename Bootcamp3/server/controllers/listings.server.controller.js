@@ -14,8 +14,7 @@ var mongoose = require('mongoose'),
   or
   https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
 
-
-  If you are looking for more understanding of exports and export modules -
+you are looking for more understanding of exports and export modules -
   https://www.sitepoint.com/understanding-module-exports-exports-node-js/
   or
   https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/
